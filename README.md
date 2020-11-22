@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/kushsharma1001/kushsharma1001/blob/main/programmer.gif" alt="A Programmer" height="300" width="1200">
+  <img src="https://github.com/kushsharma1001/kushsharma1001/blob/master/programmer.gif" alt="A Programmer" height="300" width="1200">
 </p>
 ### Hi there 👋 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kushsharma1001 alt=kushsharma1001/></p>
