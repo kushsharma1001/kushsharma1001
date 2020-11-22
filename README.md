@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#12758](https://github.com/spring-projects/spring-boot/issues/12758) in [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+2. 🗣 Commented on [#1801](https://github.com/springfox/springfox/issues/1801) in [springfox/springfox](https://github.com/springfox/springfox)
+3. 🗣 Commented on [#2817](https://github.com/springfox/springfox/issues/2817) in [springfox/springfox](https://github.com/springfox/springfox)
 <!--END_SECTION:activity-->
 </details>
 
