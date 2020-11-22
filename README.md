@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 <details>
 <summary>:zap: 📺 Latest YouTube Videos</summary>
 <!-- YOUTUBE:START -->
+- [Theme Dance at Cultural fest of First American India, Bangalore](https://www.youtube.com/watch?v=3I5EkOMntkU)
+- [Docker by Kush Sharma](https://www.youtube.com/watch?v=Mu9yt1KopRQ)
+- [SAP Annual Day 2019 Salman Bhai Dance](https://www.youtube.com/watch?v=V-PvfcVwBPA)
+- [Pehli Mohabbat Guitar Cover by Kush Sharma](https://www.youtube.com/watch?v=Z2f_lplskJY)
+- [Annual Fest Gusto Festo Dance Battle Runnerups Team Orange: First American Software Group, Bangalore](https://www.youtube.com/watch?v=BHCBvZHvns4)
 <!-- YOUTUBE:END -->
 </details>
 
