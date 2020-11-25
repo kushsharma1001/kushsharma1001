@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kushsharma1001 alt=kushsharma1001/></p>
 
-### Here is my website:point_right: [Click Here](https://kushsharma1001.github.io/):sparkles:
+### Here is my website:point_right: <a href="https://kushsharma1001.github.io/" target="_blank"> Click Here</a>:sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Software Engineer at [SAP Labs India](https://www.sap.com/)"</code>
