@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="kushsharma1001.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/kushsharma1001) -->
 <br/>
-
+<br/>
 <details>
 <summary>:zap: 📺 Latest YouTube Videos</summary>
 <!-- YOUTUBE:START -->
