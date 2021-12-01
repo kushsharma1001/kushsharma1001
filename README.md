@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=kushsharma1001 alt=kushsharma1001/></p>
 <a href="https://info.flagcounter.com/9h4G"><img src="https://s11.flagcounter.com/count2/9h4G/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-![visitors_new](https://visitor-badge.glitch.me/badge?page_id=kushsharma1001.kushsharma1001)
+![](https://visitor-badge.glitch.me/badge?page_id=kushsharma1001.kushsharma1001)
 
 ### Here is my website:point_right: <a href="https://kushsharma1001.github.io/" target="_blank"> Click Here</a>:sparkles:
 
